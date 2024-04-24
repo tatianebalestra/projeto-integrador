@@ -2,9 +2,7 @@
 
 Este é o projeto de desenvolvimento de um website que organize os documentos pertinentes da clínica multidisciplinar em um único ambiente, para a melhor comunicação entre os profissionais que atuam com seus pacientes com deficiência.
 
-# Primeiros Passos
-
-## Instalação
+# Instalação
 
 1. **Clone o Repositório e Mude o Diretório**
 
